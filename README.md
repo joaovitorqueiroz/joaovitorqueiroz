@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Front-end Engineer at [GlucoGear](https://github.com/orgs/GlucoGear)
+- 🔭 I’m currently working as Front-end Engineer at [VR Benefícios](https://www.vr.com.br/)
 - 👨‍💻 Developing cross-platform applications with React Native 📱
 - 📫 How to reach me: joaovitor.queiroz@outlook.com.br
 
